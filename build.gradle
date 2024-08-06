@@ -35,6 +35,8 @@ dependencies {
         runtimeOnly 'com.h2database:h2'
         compileOnly 'org.projectlombok:lombok'
         annotationProcessor 'org.projectlombok:lombok'
+        implementation 'io.jsonwebtoken:jjwt:0.9.1'
+        implementation 'javax.xml.bind:jaxb-api:2.3.1'
     }
 
     // H2 데이터베이스 의존성 제거
