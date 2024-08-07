@@ -55,3 +55,8 @@ Myblog 프로젝트는 나만의 개인 블로그를 만드는 프로젝트입�
 - **Jwt 토큰을 이용한 보안 및 유효성검사**
 - **로그인, 회원가입, 글작성 기능 구현**
 - **H2 DB 사용하여 회원관리 및 글내용 저장**
+
+## 5. 시현 영상
+
+![Myblogvideo](https://github.com/user-attachments/assets/add7b947-f207-437b-af3d-f79ea63ff14a)
+
