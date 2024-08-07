@@ -25,6 +25,7 @@ Myblog 프로젝트는 나만의 개인 블로그를 만드는 프로젝트입�
     <td>
       <img src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white" alt="Java">
       <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=spring-boot&logoColor=white" alt="Spring Boot">
+        <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?logo=Spring%20Security&logoColor=white" alt="Spring Security" height="20">
     </td>
     <td>
       스프링부트 CRUD 기능 사용<br>
