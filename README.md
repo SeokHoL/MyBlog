@@ -37,7 +37,7 @@ Myblog 프로젝트는 나만의 개인 블로그를 만드는 프로젝트입�
 ## 3. 개요
 
 - **프로젝트 이름**: Myblog
-- **프로젝트 개발 기간**: 2024.08.05 ~ 2024.08.07
+- **프로젝트 개발 기간**: 2024.08.05 ~ 2024.08.08
 - **개발 언어**: 
   ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
